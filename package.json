@@ -1,0 +1,10 @@
+{
+  "name"  : "miruanime",
+  "description" : "test web desc",
+  "repository" : "miruteam",
+  "engines": {"atom": ">=1.0.0 <2.0.0"},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thanoo001/miruanime.git"
+  }
+}
